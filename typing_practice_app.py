@@ -26,7 +26,7 @@ def check_typing(event):
 
 # Create the main application window
 app = tk.Tk()
-app.title("Typing Practice App")
+app.title("Typing Practice App For You")
 app.geometry("400x200")
 
 # UI Components
